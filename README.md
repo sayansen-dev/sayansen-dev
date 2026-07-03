@@ -17,16 +17,16 @@ I design multi-service automation agents and build full-stack, AI-powered produc
 
 **Featured work**
 
-**n8n Automation Suite** — 6 production workflows automating ~5 hrs/week of content, CRM, and scheduling work.
+**n8n Automation Suite** : 6 production workflows automating ~5 hrs/week of content, CRM, and scheduling work.
 Slack → CRM approval flows, an AI scheduling assistant with memory, LinkedIn/X publishing pipelines, and YouTube-to-social repurposing.
 
-**[CardFinder](https://cardfinder.ae)** — UAE credit-card comparison platform.
+**[CardFinder](https://cardfinder.ae)** : UAE credit-card comparison platform.
 Production app on Google Cloud Run comparing 13+ cards for ~500 monthly users. React + Vite · Node / Express · PostgreSQL · GCP.
 
-**Looklyy** — AI-powered personal styling app *(in active development)*.
+**Looklyy** : AI-powered personal styling app *(in active development)*.
 Cross-platform React Native app with an AI Discover feed, closet management, and a gamified Style Energy system. Backend on Supabase.
 
-**SeaSac** — offline satellite-data app for fishing vessels.
+**SeaSac** : offline satellite-data app for fishing vessels.
 Sea-surface temperature & chlorophyll data via Python · Copernicus Marine · xarray, for offline maritime use.
 
 ---
